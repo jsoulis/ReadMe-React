@@ -1,6 +1,10 @@
 # MyReads Project
 
-This is a project for the Udacity React Nanodegree program to introduce students to React fundamentals. The styles for this project were provided by Udacity, please fork from Udacity's MyReads project if you are interested in trying out this project yourself.
+This is a project for the Udacity React Nanodegree program to introduce students to React fundamentals. The styles for this project were provided by Udacity.
+
+The version provided here is my take on implementing an interactive bookshelf using React. The main components of the application are the App, Book, Shelf, SearchPage, and ListBooks components. These are all original implementations to match the goals of the UI for this application.
+
+The application allows for a search against a book database (valid search terms provided below). The user can organize books in either 3 different categories. These categories are the currently reading, read, or will read categories. The application is to allow the user to keep track of the books they have read, want to read and currently reading. 
 
 # Installation and Startup
 

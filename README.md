@@ -2,9 +2,6 @@
 
 This is a project for the Udacity React Nanodegree program to introduce students to React fundamentals. The styles for this project were provided by Udacity, please fork from Udacity's MyReads project if you are interested in trying out this project yourself.
 
-The version provided here is my take on implementing an interactive bookshelf using React. The Book listing component is defined in ListBooks.js, the main page component defined in Apps.js, and the search page component defined in SearchPage.js. These are the files that I have directly created or modified heavily from the original files provided from the fork from Udacity's repo.
-
-
 # Installation and Startup
 
 * install all project dependencies with `npm install`
